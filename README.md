@@ -1,1 +1,1 @@
-# emirates
+This is sample source code respository.
