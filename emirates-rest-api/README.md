@@ -1,4 +1,4 @@
-# Emirates Spring Boot Rest API Project
+# Spring Boot Rest API Project
 
 This is a sample Java / Maven / Spring Boot application that can be used to create/change flight seat and check seat availability on a given date.
 
